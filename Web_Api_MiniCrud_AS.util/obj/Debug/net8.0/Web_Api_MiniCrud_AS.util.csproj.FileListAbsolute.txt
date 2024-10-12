@@ -1,0 +1,12 @@
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\bin\Debug\net8.0\Web_Api_MiniCrud_AS.util.deps.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\bin\Debug\net8.0\Web_Api_MiniCrud_AS.util.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\bin\Debug\net8.0\Web_Api_MiniCrud_AS.util.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.sourcelink.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\refint\Web_Api_MiniCrud_AS.util.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\Web_Api_MiniCrud_AS.util.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.util\obj\Debug\net8.0\ref\Web_Api_MiniCrud_AS.util.dll

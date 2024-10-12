@@ -7,9 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Response\" />
-    <Folder Include="Request\" />
-    <Folder Include="proc\" />
+    <ProjectReference Include="..\Web_Api_MiniCrud_AS.data\Web_Api_MiniCrud_AS.data.csproj" />
+    <ProjectReference Include="..\Web_Api_MiniCrud_AS.util\Web_Api_MiniCrud_AS.util.csproj" />
   </ItemGroup>
 
 </Project>

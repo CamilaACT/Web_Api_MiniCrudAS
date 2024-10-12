@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Web_Api_MiniCrud_AS.model\Web_Api_MiniCrud_AS.model.csproj" />
+  </ItemGroup>
+
 </Project>

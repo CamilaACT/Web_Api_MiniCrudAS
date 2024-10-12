@@ -10,7 +10,7 @@ namespace Web_Api_MiniCrud_AS.util.Conexion
     {
 
         private static string servidor = @"LAPTOP_CAMILA\CAMILASQL";
-        private static string base_tip = "PRO_Web";
+        private static string base_tip = "cc_mini_core_1";
         private static string usuario = "sa";
         private static string password = "sasa";
         private static string clav_priv = "dfaeiriecmvjhe3943dfadahyeu3456";
