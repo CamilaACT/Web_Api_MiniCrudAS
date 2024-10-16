@@ -49,12 +49,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -99,7 +95,7 @@
               "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
               "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T01:02:25.699Z",
               "EditorCaption": ""
@@ -114,8 +110,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T01:47:26.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:47:26.301Z"
             },
             {
               "$type": "Document",
@@ -188,6 +183,10 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T01:14:08.099Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_Api_MiniCrud_AS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba2eccdfc8c7bcef60ac1073bfcfc917bf82c8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd003dcfc79bf41dfadc6f6db895640306bdb13c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_Api_MiniCrud_AS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_Api_MiniCrud_AS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

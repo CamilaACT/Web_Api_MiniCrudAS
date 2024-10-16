@@ -1501,7 +1501,9 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "Web_Api_MiniCrud_AS.model >= 1.0.0"
+      "Web_Api_MiniCrud_AS.data >= 1.0.0",
+      "Web_Api_MiniCrud_AS.model >= 1.0.0",
+      "Web_Api_MiniCrud_AS.util >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1533,8 +1535,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.data\\Web_Api_MiniCrud_AS.data.csproj": {
+              "projectPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.data\\Web_Api_MiniCrud_AS.data.csproj"
+            },
             "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj": {
               "projectPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj"
+            },
+            "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Web_Api_MiniCrud_AS.util.csproj": {
+              "projectPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Web_Api_MiniCrud_AS.util.csproj"
             }
           }
         }
