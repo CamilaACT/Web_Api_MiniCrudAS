@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE0D0B21-A5AD-4990-A8B6-B0A6C7615C8C}|..\\Web_Api_MiniCrud_AS.util\\Web_Api_MiniCrud_AS.util.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\web_api_minicrud_as.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:web_api_minicrud_as.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00722D23-F24A-4A20-ABE4-C70C23FF05CE}|Web_Api_MiniCrud_AS.csproj|solutionrelative:controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F833C10-D0E7-4CDB-9CB5-66F9F09D1F3E}|..\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.model\\proc\\p_tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47866853-E3A9-4CE2-8B8F-9CBA22496F50}|..\\Web_Api_MiniCrud_AS.data\\Web_Api_MiniCrud_AS.data.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47866853-E3A9-4CE2-8B8F-9CBA22496F50}|..\\Web_Api_MiniCrud_AS.data\\Web_Api_MiniCrud_AS.data.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F833C10-D0E7-4CDB-9CB5-66F9F09D1F3E}|..\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.model\\proc\\p_tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F833C10-D0E7-4CDB-9CB5-66F9F09D1F3E}|..\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.model\\request\\tarea_fechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F833C10-D0E7-4CDB-9CB5-66F9F09D1F3E}|..\\Web_Api_MiniCrud_AS.model\\Web_Api_MiniCrud_AS.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE0D0B21-A5AD-4990-A8B6-B0A6C7615C8C}|..\\Web_Api_MiniCrud_AS.util\\Web_Api_MiniCrud_AS.util.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\minicrud\\web_api_minicrud_as.util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,46 +57,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TareaController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Controllers\\TareaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Controllers\\TareaController.cs",
-              "RelativeToolTip": "Controllers\\TareaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T01:47:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:56:48.401Z",
+              "WhenOpened": "2024-10-16T01:47:09.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web_Api_MiniCrud_AS.http",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Web_Api_MiniCrud_AS.http",
+              "RelativeDocumentMoniker": "Web_Api_MiniCrud_AS.http",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Web_Api_MiniCrud_AS.http",
+              "RelativeToolTip": "Web_Api_MiniCrud_AS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-16T01:47:05.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:02:25.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "p_Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
-              "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
-              "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:14:08.099Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T01:47:26.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:18:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "c_base_datos.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.data\\DAO\\c_base_datos.cs",
               "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.data\\DAO\\c_base_datos.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.data\\DAO\\c_base_datos.cs",
               "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.data\\DAO\\c_base_datos.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAiwIEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwF4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:13:03.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:13:03.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Tarea_fechas.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\Request\\Tarea_fechas.cs",
               "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.model\\Request\\Tarea_fechas.cs",
@@ -84,12 +151,11 @@
               "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.model\\Request\\Tarea_fechas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:11:53.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:11:53.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\Response\\Respuesta.cs",
               "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.model\\Response\\Respuesta.cs",
@@ -97,21 +163,31 @@
               "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.model\\Response\\Respuesta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:11:01.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:11:01.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.util\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "Controllers\\TareaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:02:25.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:56:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "p_Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
+              "RelativeDocumentMoniker": "..\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\miniCrud\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
+              "RelativeToolTip": "..\\Web_Api_MiniCrud_AS.model\\proc\\p_Tarea.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:14:08.099Z"
             }
           ]
         }

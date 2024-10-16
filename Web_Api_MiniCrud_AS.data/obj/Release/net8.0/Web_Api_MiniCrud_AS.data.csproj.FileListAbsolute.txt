@@ -1,0 +1,13 @@
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\bin\Release\net8.0\Web_Api_MiniCrud_AS.data.deps.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\bin\Release\net8.0\Web_Api_MiniCrud_AS.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\bin\Release\net8.0\Web_Api_MiniCrud_AS.data.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.sourcelink.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\refint\Web_Api_MiniCrud_AS.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\Web_Api_MiniCrud_AS.data.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\miniCrud\Web_Api_MiniCrud_AS.data\obj\Release\net8.0\ref\Web_Api_MiniCrud_AS.data.dll
